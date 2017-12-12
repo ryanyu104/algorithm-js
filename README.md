@@ -1,1 +1,1 @@
-# algorithm-js
+# algorithm-lesson
